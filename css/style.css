@@ -95,17 +95,17 @@ li.active > a.nav-button {
   padding: 0;
 }
 .parallax.p1 {
-  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-70374.jpg) no-repeat fixed 50% 0;
+  background: url(https://raw.githubusercontent.com/coastalstarvending/coastalstarvending.github.io/master/images/vend1.jpg) no-repeat fixed 50% 0;
   background-size: cover;
   color: #fff;
 }
 .parallax.p2 {
-  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-126549.jpg) no-repeat fixed 50% 0;
+  background: url(https://raw.githubusercontent.com/coastalstarvending/coastalstarvending.github.io/master/images/vend2.jpg) no-repeat fixed 50% 0;
   background-size: cover;
   color: #fff;
 }
 .parallax.p3 {
-  background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-95766.jpg) no-repeat fixed 70% 0;
+  background: url(https://raw.githubusercontent.com/coastalstarvending/coastalstarvending.github.io/master/images/vend2.jpg) no-repeat fixed 70% 0;
   background-size: cover;
   color: #fff;
 }
@@ -135,7 +135,7 @@ hgroup{
   color: #fff;
   border: 5px solid #fff;
   padding: .5em 3em;
-  background-color: rgba(0,0,0,.2);
+  background-color: rgba(0,0,0,.7);
   z-index: 2;
 }
 .row {
